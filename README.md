@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RomanEngeler1805
-- Co-founder of Atla (YC S23), where we build a general purpose evaluator
+- Member of Technical Staff at Cohere
 - 📫 Best reach me on [LinkedIn](https://www.linkedin.com/in/roman-engeler-54416212b/)
